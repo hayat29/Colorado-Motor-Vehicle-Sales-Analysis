@@ -1,0 +1,1 @@
+RMSE (Root Mean Squared Error): 19981856.21
